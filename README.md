@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hello! I'm Anurag Appaji Patil  <br>🎓 Computer Science Graduate | 💼 MERN Stack Developer  <br>🚀 Currently: Full Stack Developer Intern @ SapmenC<br>💡 Exploring advanced features of Next.js and TypeScript to build scalable applications.<br>
+🌟 Hello! I'm Anurag Appaji Patil  <br>🎓 Computer Science Graduate | 💼 MERN Stack Developer  💡 Exploring advanced features of Next.js and TypeScript to build scalable applications.<br>
 
 
 ## 🌐 Socials:
